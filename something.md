@@ -1,3 +1,14 @@
-This is Git telling you that there are no unrecorded, uncommitted changes present in this directory. Note that Git refers to versioned_dir as the “working directory”. This is an important piece of terminology. The “working directory” is the term we use to refer to a directory that is being version controlled.
+This is Git telling you that there are no unrecorded, uncommitted changes present in this directory.
 
-A “clean” working directory is one for which all changes have been committed, while a “dirty” working directory is one that contains changes that have not yet been committed (i.e. recorded/saved).
+Finally some text here -- its in reverse order
+
+ Note that Git refers to versioned_dir as the “working directory”. This is an important piece of terminology. The “working directory” is the term we use to refer to a directory that is being version controlled.
+
+A “clean” working directory is one
+
+Also some extra here
+
+ for which all changes have been committed, while a “dirty” working directory is one that contains changes that have not yet been committed (i.e. recorded/saved).
+
+
+Adding some extra text here
